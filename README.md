@@ -20,7 +20,7 @@ Node.js, Express, Mongoose, Firestore, Mongo
 ## Projects
 
 *   **Accessible Tic Tac Toe Game:** Is an interactive React game with PvP and PvCPU modes. Animations are created using Motion. Redux is used for state management and React Router for routing. Game is build with the strong accessibility focus and has 100% rating.  [Link to Repository](https://github.com/NikitaVologdin/React-TicTacToe-Game) - [Link to Demo](https://react-tic-tac-toe-game-blond.vercel.app/)
-*   **Space Travel Agency :** A modern and responsive website for a space travel agency built using Next.js for server-side rendering and improved SEO. Used  Framer Motion for smooth page transitions and animations. Visitors can explore different space destinations and learn about upcoming missions. [Link to Repository](https://github.com/NikitaVologdin/React-TicTacToe-Game) - [Link to Demo](https://react-tic-tac-toe-game-blond.vercel.app/)
+*   **Space Travel Agency :** A modern and responsive website for a space travel agency built using Next.js for server-side rendering and improved SEO. Used  Framer Motion for smooth page transitions and animations. Visitors can explore different space destinations and learn about upcoming missions. [Link to Repository](https://github.com/NikitaVologdin/React-TicTacToe-Game) - [Link to Demo](https://next-space-tourism.vercel.app/)
 *   **Front End Quiz App :** Responsive React App with dark and light mode built with React Router. [Link to Repository](https://github.com/NikitaVologdin/Frontend-Quiz-app) - [Link to Demo](https://frontend-quiz-app-pi-five.vercel.app/)
 
 ## Achievements 
