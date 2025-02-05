@@ -10,7 +10,7 @@ I am a Front-end developer skilled in **React** and **Next.js**. I build **perfo
 * **State Managers:** Redux
 * **CSS libraries:** Tailwind, Bootstrap
 * **Preprocessors**: Sass, Less
-* **Best practices:** Seo, Performance, Optimisation, Accessibility
+* **Best practices:** SEO, Performance, Optimisation, Accessibility, Responsive Design
 * **Version control:** Git
 
 ## Back End Capabilities
